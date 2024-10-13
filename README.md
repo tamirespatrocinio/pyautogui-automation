@@ -4,7 +4,10 @@
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/tamirespatrocinio/pyautogui-automation?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/tamirespatrocinio/pyautogui-automation?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/pyautogui-automation?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/tamirespatrocinio/pyautogui-automation?color=56BEB8">
+  <img alt="CC0 License" src="https://img.shields.io/badge/license-CC0_1.0-56BEB8.svg">
+
+
+
 </p>
 
 <p align="center">
